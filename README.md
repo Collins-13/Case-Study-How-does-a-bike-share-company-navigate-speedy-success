@@ -17,7 +17,7 @@ Analyze how annual members and casual riders use Cyclistic differently and provi
 
 ## Tools Used
 
-- SQL (SQLite) for data data merging.
+- SQL (SQLite) for data merging.
 - R (tidyverse, lubridate, dplyr, janitor, readr, ggplot2) for data cleaning, preparation, analysis and visualization
 
 ## Data Source
