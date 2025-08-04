@@ -1,2 +1,2 @@
-# Case-Study-How-does-a-bike-share-company-navigate-speedy-success
+# Case_Study_How_does_a_bike_share_company_navigate_speedy_success
 Capstone project for the Google Data Analytics Professional Certificate
