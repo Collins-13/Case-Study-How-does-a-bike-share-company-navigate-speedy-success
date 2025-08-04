@@ -45,6 +45,6 @@ All visualizations and cleaned data are included in the outputs and data folders
 
 This project was completed as part of the **Google Data Analytics Professional Certificate**
 
-![Google_Data_Analytics_Certificate](./Google_Data_Analytics_Certificate.png) 
+![Google_Data_Analytics_Certificate](./Cyclistic-Capstone-project/Google_Data_Analytics_Certificate.png)
 
-![GoogleDataAnalyticsProfessionalCertificatev2_Badge](./GoogleDataAnalyticsProfessionalCertificatev2_Badge.png) 
+![GoogleDataAnalyticsProfessionalCertificatev2_Badge](./Cyclistic-Capstone-project/GoogleDataAnalyticsProfessionalCertificatev2_Badge.png) 
