@@ -194,7 +194,7 @@ df %>%
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
-![Monthly_ride_counts_by_rider_type](./visualizations/Monthly_ride_counts_by_rider_type.jpeg)
+![Monthly_ride_counts_by_rider_type](.,/visualizations/Monthly_ride_counts_by_rider_type.jpeg)
 
 Casual riders have noticeable peaks in the summer months (especially June to August), while members maintain a steady usage throughout the year. This pattern suggests that casual riders are more seasonal users, likely riding for leisure, while members ride more consistently, often for commuting or regular travel.
 
@@ -208,7 +208,7 @@ df %>%
   labs(title = "Average Ride Duration by Rider Type", x = "Rider Type", y = "Avg Ride Length (minutes)") +
   theme_minimal()
 ```
-![Average_ride_duration_by_rider_type](./visualizations/Average_ride_duration_by_rider_type.jpeg)
+![Average_ride_duration_by_rider_type](../visualizations/Average_ride_duration_by_rider_type.jpeg)
 
 This chart shows that casual riders take longer rides on average compared to annual members. This suggests casual users may be riding for leisure or exploration, while members likely use Cyclistic bikes for shorter, routine trips, such as commuting.
 
@@ -222,7 +222,7 @@ df %>%
   labs(title = "Ride Frequency by Day of Week", x = "Day", y = "Number of Rides") +
   theme_minimal()
 ```
-![Ride_frequency_by_day_of_week](./visualizations/Ride_frequency_by_day_of_week.jpeg)
+![Ride_frequency_by_day_of_week](../visualizations/Ride_frequency_by_day_of_week.jpeg)
 
 This chart shows how ride frequency varies across the week for both rider types. Casual riders take more rides on weekends, especially Saturday and Sunday, while members ride more consistently on weekdays.
 
@@ -236,7 +236,7 @@ df %>%
   labs(title = "Average Ride Duration by Day of Week", x = "Day", y = "Avg. Ride Length (min)") +
   theme_minimal()
 ```
-![Average_ride_duration_by_day_of_week](./visualizations/Average_ride_duration_by_day_of_week.jpeg)
+![Average_ride_duration_by_day_of_week](../visualizations/Average_ride_duration_by_day_of_week.jpeg)
 
 This chart shows that casual riders consistently take longer rides than members across all days of the week, especially on weekends. In contrast, members maintain shorter ride durations, suggesting more purposeful or routine use.
 
@@ -249,7 +249,7 @@ df %>%
   labs(title = "Rides by Bike Type and Rider Type", x = "Bike Type", y = "Number of Rides") +
   theme_minimal()
 ```
-![Rides_by_bike_type_and_rider_type](./visualizations/Rides_by_bike_type_and_rider_type.jpeg)
+![Rides_by_bike_type_and_rider_type](../visualizations/Rides_by_bike_type_and_rider_type.jpeg)
 
 This chart compares how different rider types use Cyclistic’s bike options. It shows that both members and casual riders prefer classic bikes, but casual riders use electric bikes more frequently than members.
 
@@ -287,6 +287,7 @@ This analysis really sheds light on the different habits of Cyclistic's casual r
 
 
 By using data to tailor our messages to casual riders' habits, we have a great chance to turn those one-time users into loyal, long-term members and boost our overall user retention.
+
 
 
 
