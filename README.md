@@ -48,4 +48,4 @@ This project was completed as part of the **Google Data Analytics Professional C
 ![Google Data Analytics Certificate](Cyclistic-Capstone-Project/GoogleDataAnalyticsProfessionalCertificatev2_Badge.png)
 
 
-![GoogleDataAnalyticsProfessionalCertificatev2_Badge](./Cyclistic-Capstone-project/GoogleDataAnalyticsProfessionalCertificatev2_Badge.png) 
+![GoogleDataAnalyticsProfessionalCertificatev2_Badge](Cyclistic-Capstone-Project/GoogleDataAnalyticsProfessionalCertificatev2_Badge.png) 
