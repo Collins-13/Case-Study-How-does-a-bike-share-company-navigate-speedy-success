@@ -179,7 +179,7 @@ df %>%
   labs(title = "Total Rides by Rider Type", x = "Rider Type", y = "Number of Rides") +
   theme_minimal()
 ```
-![Total_rides_by_rider_type](./visualizations/Total_rides_by_rider_type.jpeg)
+![Total_rides_by_rider_type](../Cyclistic-Capstone-Project/visualizations/Average_ride_duration_by_day_of_week.jpeg)
 
 This chart compares the total number of rides taken by casual riders and members over the last 12 months. It shows that annual members take significantly more rides than casual riders.
 
@@ -287,6 +287,7 @@ This analysis really sheds light on the different habits of Cyclistic's casual r
 
 
 By using data to tailor our messages to casual riders' habits, we have a great chance to turn those one-time users into loyal, long-term members and boost our overall user retention.
+
 
 
 
