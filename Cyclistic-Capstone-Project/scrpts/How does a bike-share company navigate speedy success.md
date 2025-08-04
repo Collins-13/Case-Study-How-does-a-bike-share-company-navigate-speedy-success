@@ -84,7 +84,8 @@ FROM cyclistic_trips;
 SELECT COUNT(*)
 FROM cyclistic_trips_copy
 ```
-![Total rows in raw data](Cyclistic-Capstone-Project/images/number_of_rows.png)
+![Total rows in raw data](Cyclistic-Capstone-Project/images/Number_of_rows.png)
+
 
 To prepare the data for analysis, incomplete or incorrect records were removed, and consistent formatting was applied throughout the dataset using RStudio.
 
@@ -287,3 +288,4 @@ This analysis really sheds light on the different habits of Cyclistic's casual r
 
 
 By using data to tailor our messages to casual riders' habits, we have a great chance to turn those one-time users into loyal, long-term members and boost our overall user retention.
+
