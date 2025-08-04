@@ -117,7 +117,7 @@ df <- read_csv("data/cyclistic_data.csv")
 df <- df %>% 
   glimpse()
 ```
-![Glimpse_at_the_data_frame](./images/Glimpse_at_the_data_frame.png) 
+![Glimpse_at_the_data_frame](../images/Glimpse_at_the_data_frame.PNG) 
 
 ###  Cleaning of Invalid Timestamps
 ```{r Cleaning of Invalid Timestamps}
@@ -166,7 +166,7 @@ df <- df %>%
 df <- df %>% 
   glimpse(df)
 ```
-![glimpse_of_new_columns](./Cyclistic-Capstone-Project/images/glimpse_of_new_columns.png) 
+![glimpse_of_new_columns](../Cyclistic-Capstone-Project/images/glimpse_of_new_columns.PNG) 
 
 # Step 4: Analysis
 
@@ -287,6 +287,7 @@ This analysis really sheds light on the different habits of Cyclistic's casual r
 
 
 By using data to tailor our messages to casual riders' habits, we have a great chance to turn those one-time users into loyal, long-term members and boost our overall user retention.
+
 
 
 
