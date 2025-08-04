@@ -194,7 +194,7 @@ df %>%
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
-![Monthly_ride_counts_by_rider_type](.,/visualizations/Monthly_ride_counts_by_rider_type.jpeg)
+![Monthly_ride_counts_by_rider_type](../visualizations/Monthly_ride_counts_by_rider_type.jpeg)
 
 Casual riders have noticeable peaks in the summer months (especially June to August), while members maintain a steady usage throughout the year. This pattern suggests that casual riders are more seasonal users, likely riding for leisure, while members ride more consistently, often for commuting or regular travel.
 
@@ -287,6 +287,7 @@ This analysis really sheds light on the different habits of Cyclistic's casual r
 
 
 By using data to tailor our messages to casual riders' habits, we have a great chance to turn those one-time users into loyal, long-term members and boost our overall user retention.
+
 
 
 
